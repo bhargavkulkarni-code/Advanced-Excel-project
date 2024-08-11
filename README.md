@@ -6,4 +6,4 @@ Graphs used – Bar Graph, Doughnut Charts, Pivot charts by tables, Area Chart, 
 
 
 
-Outcome – the outcome of this dashboard is easy to analyse the applicant income by gender wise, loan amount, count of property area, sum of credit history, sum of co-applicant income etc. in all cases male has high applicant income, loan amount, sum of credit history, co-applicant income.
+Outcome – the outcome of this dashboard is easy to analyse the applicant income by gender wise, loan amount, count of property area, sum of credit history, sum of co-applicant income to banks for decisions. in all cases male has high applicant income, loan amount, sum of credit history, co-applicant income.
