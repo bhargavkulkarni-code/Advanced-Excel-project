@@ -2,7 +2,7 @@ Problem statement – the bank loan dataset has customer loan id, gender, marrie
 
 
 
-Graphs used – bar chart, donut Chart, Pivot charts by tables, area Chart, tree Map.
+Graphs used – bar chart, donut chart, pivot charts by tables, area chart, tree map.
 
 
 
